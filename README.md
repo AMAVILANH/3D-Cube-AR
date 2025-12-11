@@ -1,5 +1,5 @@
 # 3D-Cube-AR
-##Authors
+## Authors
 Andres Mauricio Avilan
 Juan David Meza
 
@@ -12,6 +12,7 @@ This project implements a complete computer vision pipeline:
 4. Real-time augmented-reality visualization
 
 The code is based on the calibration script provided by Professor Flavio Augusto Prieto Ortiz and is expanded with the 3D projection module.
+
 ---
 
 ## Features
