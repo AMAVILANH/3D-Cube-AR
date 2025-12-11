@@ -4,7 +4,7 @@ import numpy as np
 import glob
 
 # ------------------------------------------------------------
-# Definir dimensiones del patrón de calibración (igual que el profe)
+# Definir dimensiones del patrón de calibración 
 # ------------------------------------------------------------
 chessboard_size = (8, 5)  # Esquinas internas del tablero: (filas, columnas)
 square_size = 25.0        # Tamaño de cada cuadrado en mm (ajustar si tu tablero es distinto)
