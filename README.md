@@ -55,7 +55,7 @@ Make sure the chessboard is fully visible and fills a reasonable portion of the 
 Execute the calibration script:
 
 ```bash
-python calibrate_camera.py
+python calib_camara.py
 ```
 
 ---
@@ -63,6 +63,6 @@ python calibrate_camera.py
 ### 3. Run the AR cube demo
 
 ```bash
-python ar_cube.py
+python ar_cubo.py
 ```
 
