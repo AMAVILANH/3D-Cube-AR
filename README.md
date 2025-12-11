@@ -35,14 +35,17 @@ Install dependencies:
 
 ```bash
 pip install opencv-python numpy matplotlib
+```
 
 ## How to Use
 
 ### 1. Capture chessboard images
 Use a **9×6 inner-corner chessboard**.  
 Take several photos from different angles and distances, then place all images in:
-- calibracion\calib_images
 
+```
+calibration/calib_images/
+```
 
 Make sure the chessboard is fully visible and fills a reasonable portion of the frame.
 
@@ -53,9 +56,13 @@ Execute the calibration script:
 
 ```bash
 python calibrate_camera.py
+```
+
+---
 
 ### 3. Run the AR cube demo
 
 ```bash
 python ar_cube.py
+```
 
